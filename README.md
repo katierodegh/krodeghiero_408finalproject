@@ -15,5 +15,5 @@ pip install sqlite3
 
 # Run Instructions
 ```
-python3 Homepage.py
+streamlit run Homepage.py
 ```
